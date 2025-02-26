@@ -35,10 +35,6 @@
         <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot2-postgis.jpg" width="60">
         <br><strong>PostGIS</strong>
      </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
-      <br><strong>HTML</strong>
-    </td>
     </tr>
   <tr>
     <td align="center" width="150">
@@ -56,11 +52,7 @@
     <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
       <br><strong>HTML</strong>
-    </td>
-    <td align="center" width="150">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50">
-      <br><strong>HTML</strong>
-    </td>
+    </td>    
   </tr>
 </table>
 </p>
