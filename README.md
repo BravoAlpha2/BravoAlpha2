@@ -57,6 +57,7 @@
 </table>
 </p>
 
+<br>
 
 ## 📌 Projects
 
