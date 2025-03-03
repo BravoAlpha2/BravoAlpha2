@@ -10,7 +10,7 @@
 <br>
 
 ## 🔍 About me
-👩‍🎓 **GIS & Earth Observation Specialist | Biodiversity & Spatial Modeling Expert**, former Junior Researcher at Vrije Universiteit Amsterdam, focused on geospatial data, remote sensing, and biodiversity modeling. Passionate about sustainability and data-driven conservation. I use GIS, Google Earth Engine, R, and Python to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation. My work connects spatial data analysis with real-world ecological applications, supporting environmental decision-making.
+👩‍🎓 **GIS & Earth Observation Specialist | Biodiversity & Spatial Modeling Expert**, former junior researcher at Vrije Universiteit Amsterdam, focused on geospatial data, remote sensing, and biodiversity modelling. Passionate about sustainability and data-driven conservation. I use GIS, Google Earth Engine, R, and Python to analyze biodiversity trends, model climate impacts, and develop data-driven solutions for conservation. My work connects spatial data analysis with real-world ecological applications, supporting environmental decision-making.
 
 <br>
 
