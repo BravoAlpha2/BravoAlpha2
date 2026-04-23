@@ -79,17 +79,17 @@ Contributed to a study demonstrating that **at least 20%–25% (semi-)natural ha
 ### 🗺️ **MontObEO - Web GIS**
 Developed a **Web GIS system** to monitor biodiversity in the **Montesinho/Nogueira Special Protection Area (MN-SPA)** as part of the **MontObEO project and MSc thesis**. Created both **Portuguese and English versions** for native and foreign users.
 
-🔗 [View Web GIS (EN)](https://montobeo.shinyapps.io/MN-SPA_WebGIS/) | 🔗 [View Web GIS (PT)](https://montobeo.shinyapps.io/MN-SPA_WebSIG/)
+🔗 [View Web GIS (EN)](https://nunogarcia.shinyapps.io/MN-SPA_WebGIS/) | 🔗 [View Web GIS (PT)](https://nunogarcia.shinyapps.io/MN-SPA_WebSIG/)
 
 ### 🦎 **NA2RE - Atlas of Amphibians and Reptiles of Europe**
 Using **R**, developed *"NA2RE: New ATLAS of Amphibians and Reptiles of Europe."* This project compiles updated data on amphibian and reptile distributions across Europe.
 
-🔗 [View NA2RE](https://montobeo.shinyapps.io/NA2RE/)
+🔗 [View NA2RE](https://nunogarcia.shinyapps.io/NA2RE/)
 
 ### 📊 **R Packages**
 Contributed to an **interactive table** version of the article *"R packages for ecological niche modelling"*, published in *Ecological Modelling (2023)* by **Dr. Neftalí Sillero, Dr. João C. Campos, Dr. Salvador Arenas-Castro, and Dr. Ana Márcia Barbosa**.
 
-🔗 [View app](https://montobeo.shinyapps.io/R_packages_for_enm/)
+🔗 [View app](https://nunogarcia.shinyapps.io/R_packages_for_enm/)
 
 
 <br>
